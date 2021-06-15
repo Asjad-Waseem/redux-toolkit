@@ -1,0 +1,335 @@
+{
+    "row": [
+      {
+        "id": 0,
+        "row_name": "Heading",
+        "column": [
+          {
+            "id": 0,
+            "text": "Prepare",
+            "background_colour": "#b8d432",
+            "min_width": "821px"
+          },
+          {
+            "id": 1,
+            "text": "Consult",
+            "background_colour": "#3ab54a",
+            "min_width": "1220px"
+          },
+          {
+            "id": 2,
+            "text": "Discover & Select",
+            "background_colour": "#b8d432",
+            "min_width": "560px"
+          },
+          {
+            "id": 3,
+            "text": "Celebrate",
+            "background_colour": "#b8d432",
+            "min_width": "560px"
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "row_name": "Journey Stage",
+        "column": [
+          {
+            "id": 0,
+            "section_id": 0,
+            "text": "Booking",
+            "background_colour": "#b8d432"
+          },
+          {
+            "id": 1,
+            "section_id": 0,
+            "text": "Pre-visit",
+            "background_colour": "#b8d432"
+          },
+          {
+            "id": 2,
+            "section_id": 1,
+            "text": "Check-in",
+            "background_colour": "#3ab54a"
+          },
+          {
+            "id": 3,
+            "section_id": 1,
+            "text": "Diagnostics",
+            "background_colour": "#3ab54a"
+          },
+          {
+            "id": 4,
+            "section_id": 1,
+            "text": "Sight Test",
+            "background_colour": "#3ab54a"
+          },
+          {
+            "id": 5,
+            "section_id": 2,
+            "text": "3 Way Handover",
+            "background_colour": "#F7941D"
+          },
+          {
+            "id": 6,
+            "section_id": 2,
+            "text": "Product Slection",
+            "background_colour": "#F7941D"
+          },
+          {
+            "id": 7,
+            "section_id": 2,
+            "text": "Purchase",
+            "background_colour": "#b8d432"
+          },
+          {
+            "id": 8,
+            "section_id": 3,
+            "text": "Fitting & Collection",
+            "background_colour": "#b8d432"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "row_name": "Customer Goals",
+        "column": [
+          {
+            "id": 0,
+            "section_id": 0,
+            "text": "I found the right appointment and it was quick and easy to book",
+            "background_colour": "#b8d432"
+          },
+          {
+            "id": 1,
+            "section_id": 0,
+            "text": "I know what to expect at my appointment and I feel prepared",
+            "background_colour": "#b8d432"
+          },
+          {
+            "id": 2,
+            "section_id": 1,
+            "text": "I knew where to go, was checked in right away and made to feel welcome",
+            "background_colour": "#3ab54a"
+          },
+          {
+            "id": 3,
+            "section_id": 1,
+            "text": "I understand what the tests are, why I am doing them and what will happen next",
+            "background_colour": "#3ab54a"
+          },
+          {
+            "id": 4,
+            "section_id": 1,
+            "text": "I feel the optometrist knows and cares about my needs",
+            "background_colour": "#3ab54a"
+          },
+          {
+            "id": 5,
+            "section_id": 2,
+            "text": "I have been given a personalised handover and am confident that my needs are understood",
+            "background_colour": "#F7941D"
+          },
+          {
+            "id": 6,
+            "section_id": 2,
+            "text": "I find the right pair of glasses that suit my style, budget and prescription",
+            "background_colour": "#F7941D"
+          },
+          {
+            "id": 7,
+            "section_id": 2,
+            "text": "I feel excited about my new glasses and look forward to collecting them",
+            "background_colour": "#b8d432"
+          },
+          {
+            "id": 8,
+            "section_id": 3,
+            "text": "My glasses fit me really well and I feel reassured I made the right purchase",
+            "background_colour": "#b8d432"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "row_name": "Colleague Priorities",
+        "column": [
+          {
+            "id": 0,
+            "section_id": 0,
+            "text": "",
+            "background_colour": ""
+          },
+          {
+            "id": 1,
+            "section_id": 0,
+            "text": "",
+            "background_colour": ""
+          },
+          {
+            "id": 2,
+            "section_id": 1,
+            "text": "",
+            "background_colour": ""
+          },
+          {
+            "id": 3,
+            "section_id": 1,
+            "text": "",
+            "background_colour": ""
+          },
+          {
+            "id": 4,
+            "section_id": 1,
+            "text": "",
+            "background_colour": ""
+          },
+          {
+            "id": 5,
+            "section_id": 1,
+            "text": "",
+            "background_colour": ""
+          },
+          {
+            "id": 6,
+            "section_id": 1,
+            "text": "",
+            "background_colour": ""
+          },
+          {
+            "id": 7,
+            "section_id": 1,
+            "text": "Make them feel welcome",
+            "background_colour": "#3ab54a"
+          },
+          {
+            "id": 8,
+            "section_id": 1,
+            "text": "Keep them informed",
+            "background_colour": "#3ab54a"
+          },
+          {
+            "id": 9,
+            "section_id": 1,
+            "text": "",
+            "background_colour": ""
+          },
+          {
+            "id": 10,
+            "section_id": 1,
+            "text": "Impress them",
+            "background_colour": "#3ab54a"
+          },
+          {
+            "id": 11,
+            "section_id": 1,
+            "text": "",
+            "background_colour": ""
+          },
+          {
+            "id": 12,
+            "section_id": 1,
+            "text": "See them on time",
+            "background_colour": "#3ab54a"
+          },
+          {
+            "id": 13,
+            "section_id": 1,
+            "text": "Put them at ease",
+            "background_colour": "#3ab54a"
+          },
+          {
+            "id": 14,
+            "section_id": 1,
+            "text": "Help them understand",
+            "background_colour": "#3ab54a"
+          },
+          {
+            "id": 15,
+            "section_id": 1,
+            "text": "Give them a personal experience",
+            "background_colour": "#3ab54a"
+          },
+          {
+            "id": 16,
+            "section_id": 1,
+            "text": "Demonstrate expertise",
+            "background_colour": "#3ab54a"
+          },
+          {
+            "id": 17,
+            "section_id": 1,
+            "text": "Make them feel important",
+            "background_colour": "#3ab54a"
+          },
+          {
+            "id": 18,
+            "section_id": 1,
+            "text": "Understand their needs",
+            "background_colour": "#3ab54a"
+          },
+          {
+            "id": 19,
+            "section_id": 1,
+            "text": "Give them confidence",
+            "background_colour": "#3ab54a"
+          },
+          {
+            "id": 20,
+            "section_id": 1,
+            "text": "Find the right frames",
+            "background_colour": "#3ab54a"
+          },
+          {
+            "id": 21,
+            "section_id": 1,
+            "text": "",
+            "background_colour": ""
+          },
+          {
+            "id": 22,
+            "section_id": 1,
+            "text": "",
+            "background_colour": ""
+          },
+          {
+            "id": 23,
+            "section_id": 1,
+            "text": "",
+            "background_colour": ""
+          },
+          {
+            "id": 24,
+            "section_id": 1,
+            "text": "",
+            "background_colour": ""
+          },
+          {
+            "id": 25,
+            "section_id": 1,
+            "text": "",
+            "background_colour": ""
+          },
+          {
+            "id": 26,
+            "section_id": 1,
+            "text": "",
+            "background_colour": ""
+          },
+          {
+            "id": 27,
+            "section_id": 1,
+            "text": "",
+            "background_colour": ""
+          },
+          {
+            "id": 28,
+            "section_id": 1,
+            "text": "",
+            "background_colour": ""
+          }
+        ]
+      }
+    ]
+  }
+  
